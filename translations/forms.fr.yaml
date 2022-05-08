@@ -1,0 +1,20 @@
+# Formulaire de création / édition de propriétés
+Title: Titre
+Surface: Surface
+Price: Prix
+Rooms: Pièces
+Bedrooms: Chambres
+Heat: Chauffage
+Floor: Etages
+Address: Adresse
+City: Ville
+Postal code: Code postal
+Sold: Vendu
+Description: Description
+
+# Formulaire de contact
+Firstname: Prénom
+Lastname: Nom
+Phone: Téléphone
+Email: Email
+Message: Message
